@@ -1,0 +1,2 @@
+Analytics
+We use Umami, a privacy-focused analytics tool, to help us understand how visitors interact with our website. Umami does not use cookies and does not collect any personal data. All analytics data is anonymized and used solely to improve the performance and content of this site.
