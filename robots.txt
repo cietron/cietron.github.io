@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 sitemap: https://cietron.github.io/heatmap/sitemap.xml
+Sitemap: https://cietron.github.io/sitemap.txt
