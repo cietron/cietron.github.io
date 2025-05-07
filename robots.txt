@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://cietron.github.io/sitemap.xml
 sitemap: https://cietron.github.io/heatmap/sitemap.xml
 Sitemap: https://cietron.github.io/sitemap.txt
